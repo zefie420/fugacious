@@ -49,9 +49,8 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.3.8)
     arel (6.0.3)
-    autoprefixer-rails (6.3.1)
+    autoprefixer-rails (6.5.3)
       execjs
-      json
     berkshelf (4.2.1)
       addressable (~> 2.3.4)
       berkshelf-api-client (~> 2.0)
@@ -184,7 +183,7 @@ GEM
     erubis (2.7.0)
     eventmachine (1.0.9.1)
     excon (0.45.4)
-    execjs (2.6.0)
+    execjs (2.7.0)
     factory_girl (4.5.0)
       activesupport (>= 3.0.0)
     factory_girl_rails (4.5.0)
